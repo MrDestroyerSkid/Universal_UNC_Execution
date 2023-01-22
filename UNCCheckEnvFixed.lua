@@ -14,7 +14,7 @@ local function getGlobal(path)
 	return value
 end
 
-function test(name, aliases, callback)
+local function test(name, aliases, callback)
 	running += 1
 
 	task.spawn(function()
