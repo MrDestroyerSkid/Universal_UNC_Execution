@@ -9,9 +9,6 @@ WebSocket = {}
 function WebSocket()
 	Krnl.WebSocket()
 end
---[[function WebSocket.connect(connection)
-	Krnl.WebSocket.connect(connection)
-end]]
 crypt = {}
 function crypt.hash(str,algo)
 	local str = str
@@ -41,4 +38,8 @@ end
 function crypt.base64.encode(str)
 	local ecode = Krnl.Base64.Encode(tostring(str))
 	return ecode;
+end
+http = {}
+function http.request(datare)
+	return request(datare)
 end
