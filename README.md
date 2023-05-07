@@ -20,4 +20,4 @@ Reason of this, is because of the script only SUPPORTS vanilla environment and d
 
 In order to do so you'll try and search for your executor name from the files, please paste the UNC execution into your executor in the first line, put your script in bottom of the UNC just so is it working, this will adds.
 
-There's also a fixed and working UNC Environment check at https://github.com/MrDestroyerSkid/Universal_UNC_Execution/blob/main/UNCCheckEnvFix.lua or search for UNCCheckEnv in the section
+There's also a fixed and working UNC Environment check at https://github.com/MrDestroyerSkid/Universal_UNC_Execution/blob/main/UNCCheckEnvFix.lua or search for UNCCheckEnvfix.lua in the section
