@@ -1,4 +1,6 @@
+# NOTE: THIS ONLY USES LUA TO CREATE THE ENV, FUNCTIONS, ALL IS DUE TO EXECUTOR DEVELOPERS
 # Universal UNC Execution
+
 UNC also known as Unified Naming Convention execution for executor brand
 Universal UNC Execution is a "script" enviroment to launch the simple vanilla enviroment of unified scripting API, which make scripters code more easily on their brand executor
 # How can it work for you?
